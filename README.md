@@ -1,4 +1,4 @@
-#Estudando o GitHub
+# Estudando o GitHub
 
 > Primeira aula
 Aprendendo os comandos novos do GitHub
